@@ -10,3 +10,8 @@ Para elevar 5 a la 10ma potencia, escribir:
 ```js
 potenciar(5, 10)
 ```
+
+## Ayudame
+En el codigo tengo un error a la hora de elevar un numero a una potencia negativa. No estoy seguro de que este mal, pues no soy el mejor en las matematicas.
+
+Si eres bueno en matematicas, puedes ayudarme?... te lo pido de favor :)
